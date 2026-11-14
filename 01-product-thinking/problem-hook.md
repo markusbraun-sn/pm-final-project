@@ -4,7 +4,7 @@
 - **Chosen path, which scenario are you committing to? (StreamLine or RouteLogic, or your own):** StreamLine Spotlight
 - **Strategic crisis, based on the brief, if the company does nothing for 12 months, what happens to its market position?:** If we do nothing for 12 months, the company will lose customers fully or partly focused on quality content. Growth already stalled; customer base will likely shrink.
 - **Moment of misery, what is the user likely doing outside the product (Google, spreadsheets, a competitor) because your tool isn’t serving them?:** The user is currently forced to find relevant quality content outside our product.
-- **Problem hook, summarize the business risk and user pain into one urgent sentence.:** We must solve the portfolio challenges by addressing quality concers with our content.
+- **Problem hook, summarize the business risk and user pain into one urgent sentence.:** A large catalog is not translating into worthwhile viewing: users struggle to find content that feels worth their time, and repetitive recommendations undermine their confidence in discovery.
 - **Value proposition, based on the proposed initiative (Spotlight or Velocity), what is the new value and why is it urgent to launch now?:** For our users we will enrich our portfolio with curated quality content because we want to attract for more engagement.
 
 ## Cold-read your own hook
