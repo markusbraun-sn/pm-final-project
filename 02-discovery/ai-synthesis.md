@@ -47,4 +47,4 @@ Dissatisfaction extends beyond finding content to trusting how it is selected. P
 - **Did it smooth over a critical frustration into a generic bullet point?:** To a degree, it framed massive frustration over search results as a medium discovery challenge.
 - **Did the AI try to suggest features or a roadmap despite the constraints?:** Through the selection of elements and categorizing by severity it does somehow indicate what should be picked up first.
 - **Logic leak / hallucination #1 (e.g., “AI suggested a new search bar feature, roadmap leak”):** 340+ support tickets sounds a lot but calling it substantial would need at least a comparison with the total number of tickets and how many users are behind the 340+ tickets.
-- **Logic leak / hallucination #2:** It stated that one user "reports stronger engagement with a competitor’s small, hand-picked selection". Actually the user trusts recommendations by a friend not a competitor more than the algorithm (UXR-10).
+- **Logic leak / hallucination #2:** "Personalization overweights individual viewing choices" is based on an assumption since there is not evidence of how the underlying mechanisms work.
