@@ -1,16 +1,14 @@
-# Competitive Analysis & Journey Map
-
-> **Module 2 · Lab 2 — ★ Deliverable 2.** Repo file `02-discovery/competitive-and-journey.md` — part of your submission.
-> Do the lab in the **Module 2 · Exercise 2 Guide** (linked from the Module 2 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It becomes the **Competitive Analysis & Journey Map** slide of your Module 6 final deck. Builds on your `ai-synthesis.md` and your Module 1 `problem-hook.md`.
+# Competitive Analysis & Journey Map (Module 2)
 
 ## Responses
-
-- **Role, who are you solving for?:** _(not filled in)_
-- **Goal, what is this user ultimately trying to achieve?:** _(not filled in)_
-- **Friction, the main barrier (moment of misery) stopping them:** _(not filled in)_
-- **External tools the user is forced to use:** _(not filled in)_
-- **The process, the 3–5 manual steps they take:** _(not filled in)_
-- **Core frustration, where the process feels most "broken":** _(not filled in)_
-- **The evidence, a quote or behavior from the research:** _(not filled in)_
-- **Journey map, a shareable link or the map file you committed:** _(not filled in)_
+- **Role, who are you solving for? (the specific user segment or profile):** A former subscriber who values a small, trusted selection of films over the breadth of a large catalog.
+- **Goal, what is this user ultimately trying to achieve?:** Spend his evening watching something worthwhile, with confidence that the selection deserves his time.
+- **Friction, the main barrier (moment of misery) stopping them from succeeding:** The service began to feel like “a warehouse”: “Volume went up, quality of my evenings went down.” He cancelled, contrasting that experience with a competitor whose two hand-picked weekly film recommendations he consistently watches. (UXR-04)
+- **External tools, the outside platforms or tools the user is forced to use:** Tom’s external discovery tool is a competitor’s weekly email containing two hand-picked film recommendations. He uses that curated shortlist to decide what to watch rather than relying on the original service’s large catalog. The research does not name the competitor or email application, or identify any additional tools such as ratings sites or personal watchlists. (UXR-04)
+- **The process, the 3 to 5 manual steps the user takes to get the job done:** Leaves the service that no longer feels worthwhile. Tom cancels his subscription, explaining that the experience became “a warehouse” and that increasing volume did not improve the quality of his evenings. (UXR-04)
+Receives a small selection through an external channel. A competitor emails him two hand-picked films each week, supplying a bounded set of recommendations rather than an extensive catalog to evaluate. (UXR-04)
+Turns those recommendations into viewing. He reports watching both films. His workaround effectively delegates the selection task to the competitor’s curation instead of requiring him to assess a large range of options himself. The viewing behavior is explicit; delegation of the selection task is an interpretation of that behavior. (UXR-04)
+- **Core frustration, the exact moment the process feels most “broken”:** The inefficiency is primarily a failure of the original product to deliver value from its portfolio: catalog breadth does not provide the confidence he needs to choose a worthwhile film, so he obtains that guidance elsewhere and no longer maintains the original subscription. This supports our Problem Hook as a concern about perceived viewing value and trusted selection, rather than proof that the underlying films are objectively poor. (UXR-04)
+- **The evidence, a specific quote or behavior from the research that proves this:** UXR-04 · Tom, 52, lapsed subscriber
+"I cancelled last year. It became a warehouse. Volume went up, quality of my evenings went down. A competitor emails me two hand-picked films a week and I watch both."
+- **Your journey map, a shareable link, or the map file you committed (e.g. journey-map.html):** https://github.com/markusbraun-sn/pm-final-project/blob/main/02-discovery/Vom%20Katalog%C3%BCberfluss%20zum%20Filmabend.png
